@@ -1,0 +1,54 @@
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:1px;
+}
+
+#capchastyle{
+  padding-left:100px;
+}
+
+#imagen{
+  padding-left:100px;
+}
+
+
+.formulario {
+    display:block;
+    margin:0 auto;
+    width:510px;
+    color: #666666;
+    font-family:Arial;
+}
+form {
+    margin:0 auto;
+    width:400px;
+}
+ 
+input, textarea {
+    width:380px;
+    height:27px;
+    background:#666666;
+    border:2px solid #f6f6f6;
+    padding:5px;
+    margin-top:5px;
+    font-size:12px;
+    color:#ffffff;
+}
+
+#boton{
+    width:180px;
+    height:27px;
+    background:#666666;
+    border:2px solid #f6f6f6;
+    padding:5px;
+    margin-top:5px;
+    font-size:12px;
+    color:#ffffff;
+}
+ 
+textarea {
+    height:150px;
+}
+ 
+
